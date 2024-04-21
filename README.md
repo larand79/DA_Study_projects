@@ -1,5 +1,5 @@
 ## Описание:
-В репозитории представлены проекты курса [Аналитик данных](https://practicum.yandex.ru/learn/data-analyst-bootcamp/) (Яндекс Практикум).
+В репозитории представлены проекты курса [Аналитик данных bootcamp](https://practicum.yandex.ru/learn/data-analyst-bootcamp/) (Яндекс Практикум).
 
 ## Основные инструменты и навыки, полученные при обучении:
 - Языки: Python, SQL
